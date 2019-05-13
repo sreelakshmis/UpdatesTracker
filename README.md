@@ -5,12 +5,12 @@ Application that can be used in a team where the team members can post updates a
 *Posts can be created and managed using the application
 
 *Design Componenets
-Service definition :  swagger2
-Security : basic authentication   
-Monitoring :  Actuator
-Database : H2 in-memory database
-Java framework : Spring boot
-Unit testing : Junit and Mockito
+Service definition :  swagger2,
+Security : basic authentication,   
+Monitoring :  Actuator,
+Database : H2 in-memory database, 
+Java framework : Spring boot,
+Unit testing : Junit and Mockito,
 Functional testing 
 
 Swagger2 is used to create the service definition. 
