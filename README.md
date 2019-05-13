@@ -4,7 +4,7 @@ Application that can be used in a team where the team members can post updates a
 *Users can be created and managed using the application
 *Posts can be created and managed using the application
 
-*Design Componenets :
+*Design Componenets
 Service definition :  swagger2
 Security : basic authentication   
 Monitoring :  Actuator
